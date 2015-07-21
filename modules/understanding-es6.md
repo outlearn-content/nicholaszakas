@@ -19,4 +19,4 @@ This book is intended as a guide for those who are already familiar with JavaScr
 
 This book is not for beginners who have never written JavaScript. You will need to have a good basic understanding of the language to make use of this book.
 
-[Read the article](https://leanpub.com/understandinges6/read/).
+[Read the book](https://leanpub.com/understandinges6/read/).
