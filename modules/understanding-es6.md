@@ -2,8 +2,8 @@
 {
 "name" : "understanding-es6",
 "version" : "0.0.1",
-"title" : "We have a problem with promises",
-"description" : "Fellow JavaScripters, it's time to admit it: we have a problem with promises. Many of us are using promises without really understanding them.",
+"title" : "Understanding ECMAScript 6",
+"description" : "This module is aimed at intermediate-to-advanced JavaScript developers (both browser and Node.js environments) who want to learn about the future of the language",
 "homepage" : "https://leanpub.com/understandinges6/read/",
 "canonicalSource" : "https://leanpub.com/understandinges6/read/",
 "author" : "Nicholas Zakas",
