@@ -2,7 +2,17 @@
   "olpVersion" : "0.1",
 
   "paths" : [
-  ],
+     {
+       "name" : "all-modules",
+       "title" : "All Modules by Nicholas C. Zakas",
+       "description" : "See in one place all the modules published by Nicholas C. Zakas.",
+       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
+       "privacy" : "private",
+       "pages" : [
+         {"module" : "understanding-es6"}
+       ]
+     }
+   ],
 
   "modules" : [
     {
