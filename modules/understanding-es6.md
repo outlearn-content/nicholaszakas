@@ -2713,7 +2713,7 @@ In this code, `object` has a single symbol property. The array returned from `Ob
 
 ## Coercing Symbols to Strings
 
-TODO
+Work in progress
 
 String(symbol) works but symbol + "" throws
 
@@ -2849,30 +2849,30 @@ JavaScript frequently attempts to convert objects into primitive values implicit
 
 The `@@toPrimitive` method is defined on the prototype of each standard type and prescribes the exact behavior. When a primitive conversion is needed, `@@toPrimitive` is called with a single argument, referred to as `hint` in the specification. The `hint` argument is `"default"`, specifying that the operation has no preference as to the type, `"string"`, indicating a string should be returned, or `"number"`, if a number is necessary to perform the operation. Most standard objects treat `"default"` as equivalent to `"number"` (except for `Date`, which treats `"default"` as `"string"`).
 
-TODO
+Work in progress
 
 ### @@isConcatSpreadable
 
-TODO
+Work in progress
 
 ### @@species
 
-TODO
+Work in progress
 
 ### @@unscopeables
 
-TODO
+Work in progress
 
 Only applied to `with` statement object records - does not refer to other scopes.
 
 
 ### @@hasInstance
 
-TODO
+Work in progress
 
 ## Summary
 
-TODO
+Work in progress
 <!-- @section -->
 # Classes
 
