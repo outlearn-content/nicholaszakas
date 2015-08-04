@@ -3,9 +3,9 @@
 
   "paths" : [
      {
-       "name" : "all-modules",
-       "title" : "All Modules by Nicholas C. Zakas",
-       "description" : "See in one place all the modules published by Nicholas C. Zakas.",
+       "name" : "understanding-es6",
+       "title" : "Understanding ECMAScript 6 Module by Nicholas C. Zakas",
+       "description" : "See in one place all chapters of Nicholas C. Zakas' book 'Understanding ECMAScript 6'.",
        "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
        "privacy" : "private",
        "pages" : [
